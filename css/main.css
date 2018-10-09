@@ -1,0 +1,158 @@
+body {
+    background: #f5f5f5;
+    margin: 0;
+    padding: 0;
+}
+
+dl,
+dt,
+dd,
+ul,
+ol,
+li,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+pre,
+form,
+input,
+p,
+blockquote,
+fieldset,
+div {
+    margin: 0;
+    padding: 0;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-size: 100%;
+    font-weight: normal;
+}
+
+ul li,
+ol li {
+    list-style: none;
+}
+
+table {
+    margin: 0;
+    padding: 0;
+    border-collapse: collapse;
+    border-spacing: 0;
+    font-size: 100%;
+}
+
+caption {
+    text-align: left;
+}
+
+table,
+pre,
+code,
+select,
+input,
+textarea,
+kbd,
+var,
+ins,
+del,
+samp {
+    font-size: 100%;
+}
+
+address,
+cite,
+dfn,
+em,
+strong,
+var,
+th,
+ins,
+del,
+samp {
+    font-weight: normal;
+    font-style: normal;
+}
+
+a img {
+    border: 0;
+}
+
+fieldset {
+    border: none;
+}
+
+.userDefaultWrapper .userDefaultContents {
+    width: 850px;
+    padding: 20px;
+    margin: 20px auto;
+    color: #262626;
+    background: #fff;
+    border-radius: 3px;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    -webkit-box-shadow: 0 0 3px 0 rgba(0, 0, 0, 0.15);
+    box-shadow: 0 0 3px 0 rgba(0, 0, 0, 0.15);
+}
+
+.userDefaultWrapper .userDefaultContents .userDefaultMainVisual {
+    margin-bottom: 20px;
+    line-height: 0;
+}
+
+.userDefaultWrapper .userDefaultContents h1.userDefaultHdrTxt {
+    margin-bottom: 20px;
+    text-align: center;
+    font-size: 200%;
+    font-weight: bold;
+}
+
+.userDefaultWrapper .userDefaultContents p.userDefaultLeadTxt {
+    margin-bottom: 20px;
+}
+
+.userDefaultWrapper .userDefaultContents .userDefaultLinkTxt {
+    padding-top: 20px;
+    border-top: 1px solid #ccc;
+    text-decoration: none;
+    text-align: center;
+}
+
+.userDefaultWrapper .userDefaultContents .userDefaultLinkTxt a {
+    text-decoration: none;
+    padding: 0 10px;
+    border-left: 1px solid #ccc;
+}
+
+.userDefaultWrapper .userDefaultContents .userDefaultLinkTxt a:first-child {
+    border-left: none;
+}
+
+.notice {
+    font-size: 1.5em;
+}
+
+p.notice {
+    color: red;
+}
+
+h2 {
+    font-weight: bold;
+}
+
+img.new {
+    height: 50px;
+    vertical-align: middle;
+}
+
+div.center {
+    text-align: center;
+}
